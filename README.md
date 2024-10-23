@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shekhar Gogoi and I'm a ..., from ....</p>
+<p align="left">My name is Shekhar Gogoi and I'm a Web Developer&VE, from Assa,,India</p>
 
 ###
 
